@@ -1,0 +1,23 @@
+{
+  "name": "nodes",
+  "version": "1.0.0",
+  "description": "SIT725-2021-T2-Prac2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpen14/sit725-2021-t3-prac2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpen14/sit725-2021-t3-prac2/issues"
+  },
+  "homepage": "https://github.com/mpen14/sit725-2021-t3-prac2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
